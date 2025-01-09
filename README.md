@@ -29,6 +29,10 @@ A comprehensive **School Management System** built using Python and MySQL to str
 
 ---
 
+# OUTPUT
+![](Images/data_3.png)
+![](Images/data4.png)
+
 ## Installation and Setup
 
 ### Prerequisites
@@ -37,3 +41,5 @@ A comprehensive **School Management System** built using Python and MySQL to str
 3. Install the required Python libraries:  
    ```bash
    pip install mysql-connector-python prettytable
+
+   
